@@ -1,0 +1,23 @@
+
+body{
+background-color:#94B49F;
+}
+p{
+font-style: oblique;
+font-size: 30px;
+}
+h2{
+font-style: bold;
+font-size: 40px;
+}
+
+h1{
+font-style: oblique;
+}
+h3{
+font-style: oblique;
+}
+/*****************ID SELECTORS*************************/
+#aboutMe{
+color: white;
+}
